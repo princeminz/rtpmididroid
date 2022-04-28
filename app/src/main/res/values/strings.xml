@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Midi</string>
+    <string name="device_name">Device Name</string>
+    <string name="ddns_name_text">android</string>
+    <string name="connect">Connect</string>
+    <string name="prompt">Select device to connect to</string>
+    <string name="custom_ip_text">Enter Destination IP Address with Port</string>
+</resources>
